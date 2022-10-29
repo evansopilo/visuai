@@ -14,9 +14,7 @@ Development practices is based on guiding principles of well written Go code.
 * Correctness
 * Productivity
 
-### Table of Contents
-- [visuai](#visuai)
-    - [Table of Contents](#table-of-contents)
+## Table of Contents
   - [Features](#features)
   - [Architecture](#architecture)
     - [Architecture components](#architecture-components)
